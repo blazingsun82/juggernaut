@@ -1,7 +1,0 @@
-{"name": "juggernaut-debug",
-  "version": "1.0.0",
-  "description": "Juggernaut AI Orchestration System - Debug Build",
-  "scripts": {
-    "build": "bash build.sh"
-  }
-}
