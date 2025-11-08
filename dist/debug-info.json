@@ -1,0 +1,17 @@
+{
+  "buildTimestamp": "2025-11-09 05:43:54",
+  "buildEnvironment": "DEBUG MODE",
+  "buildSystem": "Linux matrix-agent-server-mw13-85c94895d6-bddkj 5.10.134-18.al8.x86_64 #1 SMP Fri Dec 13 16:56:53 CST 2024 x86_64 GNU/Linux",
+  "buildUser": "minimax",
+  "buildPath": "/workspace/juggernaut",
+  "gitBranch": "",
+  "gitCommit": "No git commit",
+  "nodeVersion": "v18.19.0",
+  "npmVersion": "9.2.0",
+  "pythonVersion": "Python 3.12.5",
+  "availableTools": "/usr/bin/bash",
+  "diskSpace": "983T",
+  "memory": "60Gi",
+  "cloudflarePages": "Configured",
+  "buildCommand": "bash build-debug.sh"
+}
