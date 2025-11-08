@@ -1,15 +1,7 @@
-{
-  "name": "juggernaut-debug",
+{"name": "juggernaut-debug",
   "version": "1.0.0",
   "description": "Juggernaut AI Orchestration System - Debug Build",
   "scripts": {
-    "build": "bash build.sh",
-    "start": "echo 'Build complete - serving static files'",
-    "serve": "python3 -m http.server 8000 -d dist"
-  },
-  "build": {
-    "command": "bash build.sh",
-    "destination": "dist"
-  },
-  "devDependencies": {}
+    "build": "bash build.sh"
+  }
 }
